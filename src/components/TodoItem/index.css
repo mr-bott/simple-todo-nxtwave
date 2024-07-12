@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.mm {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+.btn {
+  background-color: white;
+  color: #ff0b37;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ff0b37;
+  height: 30px;
+  width: 60px;
+  margin-left: 20px;
+}
+.pp{
+  font-weight: 500;
+}

@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.main {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.card {
+  background-color: white;
+  border-radius: 10px;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hh {
+  color: #ff8542;
+}
